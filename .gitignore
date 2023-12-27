@@ -1,6 +1,12 @@
 Thumbs.db*
 .DS_Store
 HELP.md
+src
+gradle
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
 .gradle
 build/
 
